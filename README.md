@@ -93,4 +93,4 @@ echo 'echo chtonibud'>>ispolfile ///Добавим туда любой код(в
 ```bash
 PATH=$PATH:/home/$USER/ ///некоторая папка, в которой находится ваш исполняемый файл.
 ```
-[LPIC 105.2](https://cloudappstorage.github.io/Linuxv2/)
+# [LPIC 105.2](https://cloudappstorage.github.io/Linuxv2/)
